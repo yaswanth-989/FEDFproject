@@ -114,7 +114,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="navbar">
-        <h2>Store</h2>
+        <h2>DarkStore</h2>
         <div>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
